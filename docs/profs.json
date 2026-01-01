@@ -1,0 +1,1234 @@
+{
+  "timetables": [
+    {
+      "professor": "황원주",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "15:00",
+          "end_time": "16:15",
+          "class_id": "CB1501015",
+          "section": "060",
+          "credit": "3.0",
+          "title": "공학선형대수학",
+          "building_room": "102-405"
+        },
+        {
+          "day": ["Thu"],
+          "start_time": "10:00",
+          "end_time": "12:45",
+          "class_id": "CE6800485",
+          "section": "006",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-705"
+        }
+      ]
+    },
+    {
+      "professor": "홍봉희",
+      "classes": [
+        {
+          "day": ["Wed"],
+          "start_time": "15:00",
+          "end_time": "17:45",
+          "class_id": "AI7500823",
+          "section": "001",
+          "credit": "3.0",
+          "title": "딥러닝응용(AB)",
+          "building_room": "102-721"
+        }
+      ]
+    },
+    {
+      "professor": "한상곤",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "CB1501026",
+          "section": "061",
+          "credit": "3.0",
+          "title": "프로그래밍언어론",
+          "building_room": "102-406"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "15:00",
+          "end_time": "16:15",
+          "class_id": "CB1501013",
+          "section": "062",
+          "credit": "3.0",
+          "title": "인터넷과웹기초",
+          "building_room": "102-407"
+        },
+        {
+          "day": ["Thu"],
+          "start_time": "16:30",
+          "end_time": "18:15",
+          "class_id": "IE1501158",
+          "section": "066",
+          "credit": "2.0",
+          "title": "컴퓨터프로그래밍",
+          "building_room": "207-10609"
+        }
+      ]
+    },
+    {
+      "professor": "탁성우",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "CB2001102",
+          "section": "059",
+          "credit": "3.0",
+          "title": "유닉스기초",
+          "building_room": "102-309"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "10:30",
+          "end_time": "12:15",
+          "class_id": "CB1501014",
+          "section": "060",
+          "credit": "4.0",
+          "title": "C++프로그래밍과실습",
+          "building_room": "102-309"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "15:00",
+          "end_time": "16:15",
+          "class_id": "CB2001109",
+          "section": "059",
+          "credit": "3.0",
+          "title": "유닉스응용프로그래밍",
+          "building_room": "102-309"
+        }
+      ]
+    },
+    {
+      "professor": "최윤호",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "CB1501021",
+          "section": "059",
+          "credit": "3.0",
+          "title": "운영체제",
+          "building_room": "102-405"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "10:30",
+          "end_time": "11:45",
+          "class_id": "CB2003048",
+          "section": "059",
+          "credit": "3.0",
+          "title": "인공지능보안",
+          "building_room": "102-405"
+        },
+        {
+          "day": ["Mon"],
+          "start_time": "13:30",
+          "end_time": "16:15",
+          "class_id": "CE6800485",
+          "section": "004",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-707"
+        },
+        {
+          "day": ["Wed"],
+          "start_time": "19:00",
+          "end_time": "21:30",
+          "class_id": "IC6001685",
+          "section": "001",
+          "credit": "3.0",
+          "title": "AI융합및응용",
+          "building_room": "102-508"
+        }
+      ]
+    },
+    {
+      "professor": "최성기",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "13:30",
+          "end_time": "14:45",
+          "class_id": "CB1501013",
+          "section": "060",
+          "credit": "3.0",
+          "title": "인터넷과웹기초",
+          "building_room": "102-310"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "15:00",
+          "end_time": "16:15",
+          "class_id": "CB1501013",
+          "section": "061",
+          "credit": "3.0",
+          "title": "인터넷과웹기초",
+          "building_room": "102-310"
+        }
+      ]
+    },
+    {
+      "professor": "최동희",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "CA2001618",
+          "section": "059",
+          "credit": "3.0",
+          "title": "생성모델",
+          "building_room": "102-407"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "16:30",
+          "end_time": "17:45",
+          "class_id": "CB1501017",
+          "section": "061",
+          "credit": "3.0",
+          "title": "데이터과학입문",
+          "building_room": "102-309"
+        },
+        {
+          "day": ["Fri"],
+          "start_time": "09:00",
+          "end_time": "14:45",
+          "class_id": "CA2001617",
+          "section": "059",
+          "credit": "3.0",
+          "title": "빅데이터분석설계및실험",
+          "building_room": "102-410"
+        }
+      ]
+    },
+    {
+      "professor": "채흥석",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "10:30",
+          "end_time": "12:15",
+          "class_id": "CB1501014",
+          "section": "059",
+          "credit": "4.0",
+          "title": "C++프로그래밍과실습",
+          "building_room": "102-409"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "13:30",
+          "end_time": "14:45",
+          "class_id": "CB2001119",
+          "section": "059",
+          "credit": "3.0",
+          "title": "소프트웨어시스템설계",
+          "building_room": ""
+        },
+        {
+          "day": ["Wed"],
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "class_id": "CE7500872",
+          "section": "001",
+          "credit": "3.0",
+          "title": "소프트웨어아키텍처설계(DA)",
+          "building_room": "102-621"
+        }
+      ]
+    },
+    {
+      "professor": "조환규",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "CB1501023",
+          "section": "061",
+          "credit": "3.0",
+          "title": "컴퓨터알고리즘",
+          "building_room": "102-306"
+        }
+      ]
+    },
+    {
+      "professor": "조준수",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "CA2001618",
+          "section": "059",
+          "credit": "3.0",
+          "title": "생성모델",
+          "building_room": "102-407"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "15:00",
+          "end_time": "16:15",
+          "class_id": "CA2001146",
+          "section": "059",
+          "credit": "3.0",
+          "title": "인공지능수학",
+          "building_room": "102-307"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "16:30",
+          "end_time": "17:45",
+          "class_id": "CA2001174",
+          "section": "059",
+          "credit": "3.0",
+          "title": "자연어처리",
+          "building_room": "102-307"
+        },
+        {
+          "day": ["Wed"],
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "class_id": "AI6800485",
+          "section": "014",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-604"
+        },
+        {
+          "day": ["Thu"],
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "class_id": "IC7400387",
+          "section": "001",
+          "credit": "3.0",
+          "title": "빅데이터관리/분석/처리방법론",
+          "building_room": "102-508"
+        },
+        {
+          "day": ["Fri"],
+          "start_time": "10:00",
+          "end_time": "11:45",
+          "class_id": "IT1501262",
+          "section": "001",
+          "credit": "2.0",
+          "title": "효원전공탐색",
+          "building_room": "310-105"
+        }
+      ]
+    },
+    {
+      "professor": "정상화",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "15:00",
+          "end_time": "16:15",
+          "class_id": "CB1501016",
+          "section": "061",
+          "credit": "3.0",
+          "title": "논리회로및설계",
+          "building_room": "102-409"
+        },
+        {
+          "day": ["Mon"],
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "class_id": "IC6001684",
+          "section": "001",
+          "credit": "3.0",
+          "title": "디지털전환및차세대ICT기술",
+          "building_room": "102-508"
+        }
+      ]
+    },
+    {
+      "professor": "이다영",
+      "classes": [
+        {
+          "day": ["Tue"],
+          "start_time": "13:30",
+          "end_time": "14:45",
+          "class_id": "DT2002724",
+          "section": "101",
+          "credit": "3.0",
+          "title": "인터넷과웹기초",
+          "building_room": "704-404"
+        },
+        {
+          "day": ["Thu"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "DT2002724",
+          "section": "101",
+          "credit": "3.0",
+          "title": "인터넷과웹기초",
+          "building_room": "704-404"
+        },
+        {
+          "day": ["Fri"],
+          "start_time": "14:00",
+          "end_time": "17:45",
+          "class_id": "DT1501219",
+          "section": "101",
+          "credit": "4.0",
+          "title": "컴퓨터및프로그래밍입문",
+          "building_room": "704-515"
+        }
+      ]
+    },
+    {
+      "professor": "이명호",
+      "classes": [
+        {
+          "day": ["Mon"],
+          "start_time": "13:30",
+          "end_time": "16:15",
+          "class_id": "CE6800485",
+          "section": "008",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-504"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "13:30",
+          "end_time": "14:45",
+          "class_id": "CA2001179",
+          "section": "059",
+          "credit": "3.0",
+          "title": "가상현실개론",
+          "building_room": "102-406"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "15:00",
+          "end_time": "16:15",
+          "class_id": "CA2001163",
+          "section": "059",
+          "credit": "3.0",
+          "title": "실감미디어프로그래밍",
+          "building_room": "102-406"
+        }
+      ]
+    },
+    {
+      "professor": "이선열",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "CB2001102",
+          "section": "061",
+          "credit": "3.0",
+          "title": "유닉스기초",
+          "building_room": "102-310"
+        }
+      ]
+    },
+    {
+      "professor": "유영환",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "CB2001129",
+          "section": "059",
+          "credit": "3.0",
+          "title": "사물인터넷",
+          "building_room": "102-406"
+        },
+        {
+          "day": ["Mon"],
+          "start_time": "13:30",
+          "end_time": "16:15",
+          "class_id": "CE6800485",
+          "section": "002",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-606"
+        },
+        {
+          "day": ["Wed"],
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "class_id": "CS8101020",
+          "section": "001",
+          "credit": "3.0",
+          "title": "컴퓨터네트워크특론",
+          "building_room": "102-609"
+        },
+        {
+          "day": ["Sat"],
+          "start_time": "09:00",
+          "end_time": "09:45",
+          "class_id": "ZE1000453",
+          "section": "301",
+          "credit": "3.0",
+          "title": "인공지능과디지털사회",
+          "building_room": ""
+        },
+        {
+          "day": ["Sat"],
+          "start_time": "10:00",
+          "end_time": "10:45",
+          "class_id": "ZE1000453",
+          "section": "105",
+          "credit": "3.0",
+          "title": "인공지능과디지털사회",
+          "building_room": ""
+        }
+      ]
+    },
+    {
+      "professor": "우균",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "CB1501026",
+          "section": "060",
+          "credit": "3.0",
+          "title": "프로그래밍언어론",
+          "building_room": "102-307"
+        },
+        {
+          "day": ["Mon"],
+          "start_time": "13:30",
+          "end_time": "16:15",
+          "class_id": "CE6800485",
+          "section": "001",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-818"
+        },
+        {
+          "day": ["Wed"],
+          "start_time": "14:00",
+          "end_time": "16:45",
+          "class_id": "CE7500860",
+          "section": "001",
+          "credit": "3.0",
+          "title": "프로그래밍언어의미론및구현(DB)",
+          "building_room": "102-621"
+        }
+      ]
+    },
+    {
+      "professor": "염근혁",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "10:30",
+          "end_time": "12:15",
+          "class_id": "CB1501007",
+          "section": "001",
+          "credit": "4.0",
+          "title": "컴퓨터및프로그래밍입문",
+          "building_room": "102-309"
+        },
+        {
+          "day": ["Mon"],
+          "start_time": "13:30",
+          "end_time": "16:15",
+          "class_id": "AI6800485",
+          "section": "001",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-605"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "15:00",
+          "end_time": "16:15",
+          "class_id": "CB1501026",
+          "section": "059",
+          "credit": "3.0",
+          "title": "프로그래밍언어론",
+          "building_room": "102-307"
+        }
+      ]
+    },
+    {
+      "professor": "안성용",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "10:30",
+          "end_time": "11:45",
+          "class_id": "CB1501021",
+          "section": "060",
+          "credit": "3.0",
+          "title": "운영체제",
+          "building_room": "102-307"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "13:30",
+          "end_time": "14:45",
+          "class_id": "CB2001101",
+          "section": "060",
+          "credit": "3.0",
+          "title": "시스템소프트웨어",
+          "building_room": "102-307"
+        },
+        {
+          "day": ["Thu"],
+          "start_time": "10:00",
+          "end_time": "12:45",
+          "class_id": "CE6800485",
+          "section": "005",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-503"
+        }
+      ]
+    },
+    {
+      "professor": "백윤주",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "10:30",
+          "end_time": "11:45",
+          "class_id": "CB2001101",
+          "section": "059",
+          "credit": "3.0",
+          "title": "시스템소프트웨어",
+          "building_room": "102-405"
+        },
+        {
+          "day": ["Mon"],
+          "start_time": "13:30",
+          "end_time": "16:15",
+          "class_id": "AI6800485",
+          "section": "002",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-505"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "13:30",
+          "end_time": "14:45",
+          "class_id": "CB2001113",
+          "section": "059",
+          "credit": "3.0",
+          "title": "임베디드시스템",
+          "building_room": "102-405"
+        }
+      ]
+    },
+    {
+      "professor": "박진선",
+      "classes": [
+        {
+          "day": ["Mon"],
+          "start_time": "13:30",
+          "end_time": "16:15",
+          "class_id": "AI6800485",
+          "section": "011",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-701"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "15:00",
+          "end_time": "16:15",
+          "class_id": "CA2001619",
+          "section": "059",
+          "credit": "3.0",
+          "title": "시각컴퓨팅",
+          "building_room": "102-306"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "16:30",
+          "end_time": "17:45",
+          "class_id": "CB2001118",
+          "section": "060",
+          "credit": "3.0",
+          "title": "머신러닝",
+          "building_room": "102-306"
+        },
+        {
+          "day": ["Tue"],
+          "start_time": "18:30",
+          "end_time": "22:15",
+          "class_id": "CB1501020",
+          "section": "001",
+          "credit": "2.0",
+          "title": "소프트웨어설계및실험",
+          "building_room": "102-309"
+        },
+        {
+          "day": ["Thu"],
+          "start_time": "18:30",
+          "end_time": "22:15",
+          "class_id": "CB1501020",
+          "section": "002",
+          "credit": "2.0",
+          "title": "소프트웨어설계및실험",
+          "building_room": "102-309"
+        }
+      ]
+    },
+    {
+      "professor": "박영진",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "10:30",
+          "end_time": "11:45",
+          "class_id": "CB1501017",
+          "section": "059",
+          "credit": "3.0",
+          "title": "데이터과학입문",
+          "building_room": "102-310"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "16:30",
+          "end_time": "17:45",
+          "class_id": "CB1501017",
+          "section": "060",
+          "credit": "3.0",
+          "title": "데이터과학입문",
+          "building_room": "102-310"
+        },
+        {
+          "day": ["Thu"],
+          "start_time": "10:00",
+          "end_time": "12:45",
+          "class_id": "CE6800485",
+          "section": "012",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-602"
+        }
+      ]
+    },
+    {
+      "professor": "김호원",
+      "classes": [
+        {
+          "day": ["Mon"],
+          "start_time": "13:30",
+          "end_time": "16:15",
+          "class_id": "CE6800485",
+          "section": "003",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-801"
+        }
+      ]
+    },
+    {
+      "professor": "김태운",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "15:00",
+          "end_time": "16:15",
+          "class_id": "CB2001612",
+          "section": "059",
+          "credit": "3.0",
+          "title": "클라우드컴퓨팅",
+          "building_room": "102-306"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "16:30",
+          "end_time": "17:45",
+          "class_id": "CB1501013",
+          "section": "059",
+          "credit": "3.0",
+          "title": "인터넷과웹기초",
+          "building_room": "102-306"
+        },
+        {
+          "day": ["Tue"],
+          "start_time": "10:00",
+          "end_time": "12:45",
+          "class_id": "AI6001029",
+          "section": "001",
+          "credit": "3.0",
+          "title": "강화학습(AA)",
+          "building_room": "102-621"
+        },
+        {
+          "day": ["Tue"],
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "class_id": "CE6800485",
+          "section": "010",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-603"
+        },
+        {
+          "day": ["Fri"],
+          "start_time": "10:00",
+          "end_time": "11:45",
+          "class_id": "IT1501262",
+          "section": "001",
+          "credit": "2.0",
+          "title": "효원전공탐색",
+          "building_room": "310-105"
+        }
+      ]
+    },
+    {
+      "professor": "김종덕",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "10:30",
+          "end_time": "11:45",
+          "class_id": "CB1501027",
+          "section": "059",
+          "credit": "3.0",
+          "title": "이산수학(I)",
+          "building_room": "102-406"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "13:30",
+          "end_time": "14:45",
+          "class_id": "CB2001108",
+          "section": "059",
+          "credit": "3.0",
+          "title": "데이터통신",
+          "building_room": "102-406"
+        },
+        {
+          "day": ["Mon"],
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "class_id": "IC6001684",
+          "section": "001",
+          "credit": "3.0",
+          "title": "디지털전환및차세대ICT기술",
+          "building_room": "102-508"
+        },
+        {
+          "day": ["Thu"],
+          "start_time": "10:00",
+          "end_time": "12:45",
+          "class_id": "AI6800485",
+          "section": "003",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-506"
+        }
+      ]
+    },
+    {
+      "professor": "김정구",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "10:30",
+          "end_time": "12:15",
+          "class_id": "CB1501007",
+          "section": "002",
+          "credit": "4.0",
+          "title": "컴퓨터및프로그래밍입문",
+          "building_room": "102-310"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "16:30",
+          "end_time": "17:45",
+          "class_id": "CB2001108",
+          "section": "060",
+          "credit": "3.0",
+          "title": "데이터통신",
+          "building_room": "102-405"
+        }
+      ]
+    },
+    {
+      "professor": "김원석",
+      "classes": [
+        {
+          "day": ["Mon"],
+          "start_time": "13:30",
+          "end_time": "16:15",
+          "class_id": "CE6800485",
+          "section": "009",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-706"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "10:30",
+          "end_time": "11:45",
+          "class_id": "CB1501021",
+          "section": "061",
+          "credit": "3.0",
+          "title": "운영체제",
+          "building_room": "102-406"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "15:00",
+          "end_time": "16:15",
+          "class_id": "CB1501016",
+          "section": "059",
+          "credit": "3.0",
+          "title": "논리회로및설계",
+          "building_room": "102-406"
+        },
+        {
+          "day": ["Wed"],
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "class_id": "CE6001359",
+          "section": "001",
+          "credit": "3.0",
+          "title": "엣지클라우드컴퓨팅(NA/SA)",
+          "building_room": "102-621"
+        },
+        {
+          "day": ["Fri"],
+          "start_time": "10:00",
+          "end_time": "11:45",
+          "class_id": "IT1501262",
+          "section": "001",
+          "credit": "2.0",
+          "title": "효원전공탐색",
+          "building_room": "310-105"
+        }
+      ]
+    },
+    {
+      "professor": "김길호",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "16:30",
+          "end_time": "18:15",
+          "class_id": "CB1501007",
+          "section": "005",
+          "credit": "4.0",
+          "title": "컴퓨터및프로그래밍입문",
+          "building_room": "102-409"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "16:30",
+          "end_time": "18:15",
+          "class_id": "CB1501007",
+          "section": "004",
+          "credit": "4.0",
+          "title": "컴퓨터및프로그래밍입문",
+          "building_room": "102-409"
+        }
+      ]
+    },
+    {
+      "professor": "권혁철",
+      "classes": [
+        {
+          "day": ["Wed"],
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "class_id": "IC6001685",
+          "section": "001",
+          "credit": "3.0",
+          "title": "AI융합및응용",
+          "building_room": "102-508"
+        },
+        {
+          "day": ["Thu"],
+          "start_time": "14:00",
+          "end_time": "16:45",
+          "class_id": "AI6001037",
+          "section": "001",
+          "credit": "3.0",
+          "title": "정보검색(AA)",
+          "building_room": "102-621"
+        }
+      ]
+    },
+    {
+      "professor": "권동현",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "10:30",
+          "end_time": "11:45",
+          "class_id": "CB2001613",
+          "section": "059",
+          "credit": "3.0",
+          "title": "블록체인",
+          "building_room": "102-307"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "13:30",
+          "end_time": "14:45",
+          "class_id": "CB2001101",
+          "section": "061",
+          "credit": "3.0",
+          "title": "시스템소프트웨어",
+          "building_room": "102-703"
+        },
+        {
+          "day": ["Mon"],
+          "start_time": "13:30",
+          "end_time": "16:15",
+          "class_id": "CE6800485",
+          "section": "007",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-703"
+        },
+        {
+          "day": ["Tue"],
+          "start_time": "15:00",
+          "end_time": "17:45",
+          "class_id": "CE7500888",
+          "section": "001",
+          "credit": "3.0",
+          "title": "시스템및소프트웨어보안(SB)",
+          "building_room": "102-621"
+        },
+        {
+          "day": ["Fri"],
+          "start_time": "09:00",
+          "end_time": "11:45",
+          "class_id": "CB2001125",
+          "section": "059",
+          "credit": "3.0",
+          "title": "캡스톤디자인",
+          "building_room": "102-408"
+        }
+      ]
+    },
+    {
+      "professor": "감진규",
+      "classes": [
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "13:30",
+          "end_time": "14:45",
+          "class_id": "CB2001102",
+          "section": "060",
+          "credit": "3.0",
+          "title": "유닉스기초",
+          "building_room": "102-309"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "16:30",
+          "end_time": "17:45",
+          "class_id": "CB2001117",
+          "section": "059",
+          "credit": "3.0",
+          "title": "컴퓨터비전개론",
+          "building_room": "102-405"
+        },
+        {
+          "day": ["Thu"],
+          "start_time": "10:00",
+          "end_time": "12:45",
+          "class_id": "AI6800485",
+          "section": "008",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-607"
+        }
+      ]
+    },
+    {
+      "professor": "이도훈",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "CB1501015",
+          "section": "059",
+          "credit": "3.0",
+          "title": "공학선형대수학",
+          "building_room": "102-306"
+        },
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "10:30",
+          "end_time": "11:45",
+          "class_id": "CB1501023",
+          "section": "059",
+          "credit": "3.0",
+          "title": "컴퓨터알고리즘",
+          "building_room": "102-306"
+        },
+        {
+          "day": ["Mon"],
+          "start_time": "13:30",
+          "end_time": "16:15",
+          "class_id": "AI6800485",
+          "section": "005",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-702"
+        },
+        {
+          "day": ["Tue"],
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "class_id": "AI8200154",
+          "section": "001",
+          "credit": "3.0",
+          "title": "인공신경망과딥러닝",
+          "building_room": "314-301"
+        }
+      ]
+    },
+    {
+      "professor": "손준영",
+      "classes": [
+        {
+          "day": ["Thu"],
+          "start_time": "10:00",
+          "end_time": "12:45",
+          "class_id": "CE6800485",
+          "section": "011",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-802"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "15:00",
+          "end_time": "16:15",
+          "class_id": "CB2001122",
+          "section": "059",
+          "credit": "3.0",
+          "title": "정보보안",
+          "building_room": "102-406"
+        },
+        {
+          "day": ["Fri"],
+          "start_time": "10:00",
+          "end_time": "11:45",
+          "class_id": "IT1501262",
+          "section": "001",
+          "credit": "2.0",
+          "title": "효원전공탐색",
+          "building_room": "310-105"
+        }
+      ]
+    },
+    {
+      "professor": "전상률",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "CA2001618",
+          "section": "059",
+          "credit": "3.0",
+          "title": "생성모델",
+          "building_room": "102-407"
+        },
+        {
+          "day": ["Mon"],
+          "start_time": "13:30",
+          "end_time": "16:15",
+          "class_id": "AI6800485",
+          "section": "015",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-502"
+        },
+        {
+          "day": ["Mon"],
+          "start_time": "15:00",
+          "end_time": "17:45",
+          "class_id": "AI6001429",
+          "section": "001",
+          "credit": "3.0",
+          "title": "생성모델(AA)",
+          "building_room": "102-721"
+        }
+      ]
+    },
+    {
+      "professor": "송길태",
+      "classes": [
+        {
+          "day": ["Tue", "Thu"],
+          "start_time": "09:00",
+          "end_time": "10:15",
+          "class_id": "CA2001618",
+          "section": "059",
+          "credit": "3.0",
+          "title": "생성모델",
+          "building_room": "102-407"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "10:30",
+          "end_time": "11:45",
+          "class_id": "CB1501023",
+          "section": "060",
+          "credit": "3.0",
+          "title": "컴퓨터알고리즘",
+          "building_room": "102-306"
+        },
+        {
+          "day": ["Mon", "Wed"],
+          "start_time": "13:30",
+          "end_time": "14:45",
+          "class_id": "CB2001118",
+          "section": "059",
+          "credit": "3.0",
+          "title": "머신러닝",
+          "building_room": "102-306"
+        },
+        {
+          "day": ["Tue"],
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "class_id": "AI6800485",
+          "section": "007",
+          "credit": "3.0",
+          "title": "논문연구",
+          "building_room": "102-601"
+        },
+        {
+          "day": ["Wed"],
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "class_id": "IC7400387",
+          "section": "001",
+          "credit": "3.0",
+          "title": "빅데이터관리/분석/처리방법론",
+          "building_room": "102-508"
+        }
+      ]
+    }
+  ]
+}
