@@ -93,7 +93,14 @@
             const [schedule, setSchedule] = useState([]);
             const [search, setSearch] = useState("");
             useEffect(() => {
-                if (window.APP_DATA) setDb(window.APP_DATA);
+                if (window.APP_DATA) {
+                    const overrides = {"컴퓨터및프로그래밍입문": 4,"프로그래밍원리와실습": 4,"C++프로그래밍과실습": 4,"논리회로설계및실험": 2,"소프트웨어설계및실험": 2,"임베디드시스템설계및실험": 2,"어드벤처디자인": 2};
+                    const data = window.APP_DATA;
+                    Object.values(data.courses).forEach(course => {
+                        if (overrides[course.title]) course.credit = overrides[course.title];
+                    });
+                    setDb({ ...data });
+                }
                 else alert("app_data.js not found!");
             }, []);
             const displayedCourses = useMemo(() => {
